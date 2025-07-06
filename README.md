@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankushrawat&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ankushrawat?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ankushrawat?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/savetree-1?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 </p>
 
 ---
@@ -21,8 +21,8 @@
 ☁️ **AWS Certified Cloud Practitioner** with hands-on cloud experience  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushrawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushrawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savetree-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -52,28 +52,28 @@
 
 <div align="center">
   
-### 🌐 [GitConnectX - GitHub Social Network Analyzer](https://github.com/ankushrawat/gitconnectx)
+### 🌐 [GitConnectX - GitHub Social Network Analyzer](https://github.com/savetree-1/gitconnectx)
 *React • GitHub API • D3.js • Graph Algorithms*
 
 🔹 **Full-stack platform** analyzing GitHub social graphs for 500+ users  
 🔹 **Advanced algorithms**: Dijkstra's, BFS, Louvain, Girvan-Newman  
 🔹 **Community detection** and centrality ranking visualization  
 
-### 🔥 [Forest Fire Detection System](https://github.com/ankushrawat/forest-fire-detection)
+### 🔥 [Forest Fire Detection System](https://github.com/savetree-1/forest-fire-detection)
 *TensorFlow • CNNs • Computer Vision • Real-time Processing*
 
 🔹 **94% accuracy** in fire/non-fire classification  
 🔹 **Real-time detection** from webcam/video streams  
 🔹 **Optimized inference** with <300ms latency  
 
-### 🛡️ [MetaShield - Metadata Stripping Tool](https://github.com/ankushrawat/metashield)
+### 🛡️ [MetaShield - Metadata Stripping Tool](https://github.com/savetree-1/metashield)
 *React • PIL • File Processing • Security*
 
 🔹 **Multi-format support**: JPG, MP4, PDF, DOCX, etc.  
 🔹 **Batch processing** of 100+ media files  
 🔹 **Clean React UI** with drag-and-drop functionality  
 
-### 🔐 [Image Steganography - Secure Cryptography](https://github.com/ankushrawat/image-steganography)
+### 🔐 [Image Steganography - Secure Cryptography](https://github.com/savetree-1/image-steganography)
 *Python • Tkinter • PIL • Cryptography*
 
 🔹 **Password-protected** message hiding in images  
@@ -131,15 +131,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushrawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankushrawat&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savetree-1&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushrawat&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
