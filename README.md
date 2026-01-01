@@ -17,19 +17,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savetree-1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&border_radius=10" alt="GitHub Streak" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49.5%" />
+  <img src="https://streak-stats.demolab.com/?user=savetree-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49.5%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Profile" width="35" /> About Me
+## About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Academic Excellence**
+**Academic Excellence**
 
 <br/>
 
@@ -53,7 +53,7 @@ CGPA: 9.35/10
 </td>
 <td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Competitive Programming**
+**Competitive Programming**
 
 <br/>
 
@@ -80,9 +80,9 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> Featured Projects
+## Featured Projects
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> GitConnectX - GitHub Social Network Analyzer
+### GitConnectX - GitHub Social Network Analyzer
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -120,11 +120,11 @@ CN Dominator: Top 3% (Rank 27/1000+)
 </tr>
 </table>
 
-**[View Source Code](https://github.com/savetree-1/GitConnectX)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+**[View Source Code](https://github.com/savetree-1/GitConnectX)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Forest Fire Detection System
+### Forest Fire Detection System
 
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -161,11 +161,11 @@ CN Dominator: Top 3% (Rank 27/1000+)
 </tr>
 </table>
 
-**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/forest_fire_detection_uttarakhand)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/forest_fire_detection_uttarakhand)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c0-eba1-410c-8060-08cf98c25a90.png" width="25"> MetaShield - Metadata Stripping Tool
+### MetaShield - Metadata Stripping Tool
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -202,11 +202,11 @@ CN Dominator: Top 3% (Rank 27/1000+)
 </tr>
 </table>
 
-**[View Source Code](https://github.com/savetree-1/MetaShield_)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+**[View Source Code](https://github.com/savetree-1/MetaShield_)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab4f81e2f4.png" width="25"> Image Steganography - Secure Cryptography
+### Image Steganography - Secure Cryptography
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -242,11 +242,11 @@ CN Dominator: Top 3% (Rank 27/1000+)
 </tr>
 </table>
 
-**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography)**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Technical Skills
+## Technical Skills
 
 ### Programming Languages
 <div align="center">
@@ -297,7 +297,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> Competitive Programming Statistics
+## Competitive Programming Statistics
 
 <div align="center">
 
@@ -343,11 +343,11 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="35"> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&border_radius=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_title=false&border_radius=10" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
 </div>
 
 <br/>
@@ -358,7 +358,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35"> Professional Experience & Certifications
+## Professional Experience & Certifications
 
 ### SWAYAM NPTEL Certification Program
 **Duration:** Dec 2023 - Apr 2025 | **Status:** Discipline Star Awardee
@@ -416,7 +416,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"> Awards & Recognition
+## Awards & Recognition
 
 <div align="center">
 
@@ -524,7 +524,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35"> Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -539,7 +539,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b5477.png" width="35"> Contact Information
+## Contact Information
 
 <div align="center">
   
