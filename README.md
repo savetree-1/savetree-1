@@ -1,25 +1,24 @@
 # Ankush Rawat
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" />
+  <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://streak-stats.demolab.com/?user=savetree-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true" width="49%" />
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
