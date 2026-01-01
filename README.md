@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" />
 </p>
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true)
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## About Me
 
