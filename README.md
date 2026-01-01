@@ -1,40 +1,4 @@
-<!-- ===== SECTION 1: HERO / HEADER ===== -->
-<div align="center">
-  <!-- Big animated banner (capsule-render) -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18"
-    alt="Ankush Rawat"
-  />
-</div>
 
-<div align="center" style="margin-top: 8px;">
-  <!-- Typing subtitles (readme-typing-svg) -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved"
-    alt="caption-typing"
-  />
-</div>
-
-<!-- soft gradient divider -->
-<div align="center" style="margin:14px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" alt="divider" />
-</div>
-
-<!-- Mini hero: personal icon + 1-line bio -->
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    width="72"
-    alt="logo"
-  />
-  <h1 style="font-size:26px; margin:8px 0 4px 0;">Ankush Rawat</h1>
-  <p style="max-width:640px; margin:0 auto; color:#8b949e;">
-    Building scalable systems, solving real-world problems, and shipping clean code. Open to collaboration & mentorship.
-  </p>
-</div>
-
-<!-- small spacer -->
-<br/>
 
 # Ankush Rawat
 
