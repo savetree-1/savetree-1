@@ -1,24 +1,34 @@
-# Ankush Rawat
-
+<!-- Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    width="90"
+    alt="GitHub Logo"
+  />
+
+  <h1 style="font-size: 28px; margin: 10px 0;">
+    Ankush Rawat
+  </h1>
+
+  <p style="max-width: 600px;">
+    Computer Science Engineer • Full Stack Developer • Competitive Programmer<br/>
+    Building scalable systems, solving real-world problems, and shipping clean code.
+  </p>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" />
-</div>
-<!-- Profile badges -->
+<!-- Badges Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&style=for-the-badge&color=58a6ff" />
   <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" />
   <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" />
 </p>
 
-<!-- GitHub stats -->
+<!-- Stats Row -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img src="https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <!-- Divider animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
