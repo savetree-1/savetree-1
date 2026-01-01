@@ -21,18 +21,44 @@
   </p>
 </div>
 
-<!-- Badges Row -->
+<!-- ===== SECTION 2: BADGES & QUICK STATS ===== -->
+
+<!-- Primary social proof badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&style=for-the-badge&color=58a6ff" />
   <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" />
   <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" />
 </p>
 
-<!-- Stats Row -->
+<!-- Personality / identity accent badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lifelong-Learner-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem-Solver-f97316?style=for-the-badge" />
 </p>
+
+<!-- small caption to humanize the numbers -->
+<p align="center">
+  <em>Consistency, curiosity, and continuous improvement.</em>
+</p>
+
+<!-- GitHub stats cards -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- divider to next section -->
+<div align="center" style="margin:16px 0;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+</div>
+
 
 
 <!-- Divider animation -->
