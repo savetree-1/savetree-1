@@ -7,19 +7,22 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" />
 </div>
+<!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&style=for-the-badge&color=58a6ff" />
   <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" />
   <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" />
 </p>
 
+<!-- GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img src="https://streak-stats.demolab.com?user=savetree-1&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Divider animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 
