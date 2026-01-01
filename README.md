@@ -1,294 +1,530 @@
 # Ankush Rawat
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" alt="Header"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/savetree-1?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" alt="GitHub Stars" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savetree-1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=savetree-1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&border_radius=10" alt="GitHub Streak" width="49.5%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Profile" width="35" /> About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎓 Academic Excellence**
-- **B.Tech CSE** at Graphic Era Hill University, Dehradun
-- **CGPA:** 9.35/10 (2023-2027)
-- **NPTEL Discipline Star Awardee** with 50+ certified hours from IITs
-- **Top 5% Performer** in IIT Kanpur's Programming in C course
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Academic Excellence**
 
-**🏆 Competitive Programming**
-- **750+ DSA Problems Solved** across multiple platforms
-- **LeetCode:** 2000+ Rating, Global Rank 5713 (Top 7%)
-- **CodeChef:** 4★ (1800+ Rating), Global Rank 4555
-- **Codeforces:** Expert Level
+<br/>
+
+```yaml
+University: Graphic Era Hill University, Dehradun
+Degree: B.Tech in Computer Science Engineering
+Duration: 2023 - 2027
+CGPA: 9.35/10
+```
+
+<br/>
+
+**Recognitions & Awards**
+
+- NPTEL Discipline Star Awardee
+- 50+ Certified Hours from IITs
+- Top 5% Performer in IIT Kanpur's Programming in C
+- 4× Silver + 1× Gold Medalist in NPTEL courses
+- PMO Letter of Appreciation (PMSS Scholarship)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**☁️ Cloud & Certifications**
-- **AWS Certified Cloud Practitioner**
-- **Google Cloud Platform:** Elite + Silver Medal
-- **12+ Hands-on Labs** completed across cloud platforms
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Competitive Programming**
 
-**🌟 Recognition & Awards**
-- **PMO Letter of Appreciation** under PMSS Scholarship
-- **4× Silver + 1× Gold Medalist** in NPTEL courses
-- **Mathematical Olympiad Medalist:** 3× Silver + 1× Gold
-- **Top-10 Zonal Rank Holder** in Mathematical Olympiads
+<br/>
+
+```yaml
+Total Problems Solved: 750+
+LeetCode Rating: 2000+ (Top 7%)
+CodeChef: 4★ (1800+ Rating)
+Codeforces: Expert Level
+CN Dominator: Top 3% (Rank 27/1000+)
+```
+
+<br/>
+
+**Cloud & Certifications**
+
+- AWS Certified Cloud Practitioner
+- Google Cloud Platform: Elite + Silver Medal
+- 12+ Hands-on Labs completed
+- Mathematical Olympiad: 3× Silver + 1× Gold
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> Featured Projects
 
-### 🌐 GitConnectX - GitHub Social Network Analyzer
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub API" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Graph%20Algorithms-FF6B6B?style=for-the-badge" alt="Graph Algorithms" />
-</div>
-
-**📊 Advanced GitHub Social Network Analysis Platform**
-
-- **🔍 Data Processing:** Analyzed social graphs for 500+ users using GitHub REST APIs
-- **🧠 Algorithm Implementation:** Integrated Dijkstra's, BFS, Louvain, and Girvan-Newman algorithms
-- **📈 Visualization:** Dynamic community detection and centrality ranking with D3.js
-- **⚡ Performance:** Real-time graph processing with optimized data structures
-- **🎨 UI/UX:** Responsive React interface with interactive graph visualizations
-
-**[📁 View Source Code](https://github.com/savetree-1/GitConnectX)**
-
----
-
-### 🔥 Forest Fire Detection System
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/CNN-FF69B4?style=for-the-badge" alt="CNN" />
-</div>
-
-**🛡️ AI-Powered Real-Time Fire Detection System**
-
-- **🎯 Model Accuracy:** Achieved 94% accuracy in fire/non-fire classification
-- **🧠 Deep Learning:** Custom CNN architecture trained on 1,000+ labeled images
-- **⚡ Real-Time Processing:** Live detection from webcam/video with <300ms latency
-- **🎥 Multi-Source Input:** Support for webcam, video files, and image batch processing
-- **🔧 Optimization:** Efficient model inference with TensorFlow Lite integration
-
-**[📁 View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/forest_fire_detection_uttarakhand)**
-
----
-
-### 🛡️ MetaShield - Metadata Stripping Tool
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PIL" />
-  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge" alt="Security" />
-</div>
-
-**🔒 Advanced File Metadata Sanitization Tool**
-
-- **📁 Multi-Format Support:** JPG, PNG, MP4, PDF, DOCX, XLSX, and more
-- **⚡ Batch Processing:** Efficiently process 100+ files simultaneously
-- **🎨 Modern UI:** Clean React interface with drag-and-drop functionality
-- **🔐 Privacy Protection:** Complete metadata removal for enhanced security
-- **📊 Processing Analytics:** Real-time progress tracking and file statistics
-
-**[📁 View Source Code](https://github.com/savetree-1/MetaShield_)**
-
----
-
-### 🖼️ Image Steganography - Secure Cryptography
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PIL" />
-  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge" alt="Cryptography" />
-</div>
-
-**🔐 Advanced Steganographic Message Hiding System**
-
-- **🔒 Security Features:** Password-protected message encryption and decryption
-- **🎨 Zero Visual Distortion:** MSB-based bit embedding with imperceptible changes
-- **📊 Reliability Testing:** Validated with 100+ stego images for data integrity
-- **🖥️ GUI Interface:** User-friendly Tkinter application with intuitive design
-- **🔧 Format Support:** JPEG, PNG, and other image formats
-
-**[📁 View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography)**
-
----
-
-## 💻 Technical Skills
-
-### 🌟 Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</div>
-
-### 🚀 Web & App Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</div>
-
-### 🔧 Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</div>
-
----
-
-## 📊 GitHub Analytics
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="25"> GitConnectX - GitHub Social Network Analyzer
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_title=true" alt="Activity Graph" width="48%" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graph%20Algorithms-FF6B6B?style=for-the-badge" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savetree-1&theme=tokyonight" alt="Profile Summary" />
-</div>
+<br/>
 
----
-
-## 🏆 Competitive Programming Statistics
-
-<div align="center">
-  
-| Platform | Rating | Global Rank | Problems Solved | Achievement |
-|:---:|:---:|:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **2000+** | **5713** (Top 7%) | **300+** | Expert Level |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1800+** (4★) | **4555** | **250+** | 4 Star Coder |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | **Expert** | - | **200+** | Expert Rating |
-| **Total** | - | - | **750+** | Multi-Platform Expert |
-
-</div>
-
----
-
-## 🎓 Professional Experience & Certifications
-
-### 🌟 SWAYAM NPTEL Certification Program
-**Duration:** Dec 2023 - Apr 2025  
-**Institution:** IIT Kanpur, IIT Kharagpur, IIT Madras  
-**Status:** Discipline Star Awardee | 50+ Certified Learning Hours
+**Advanced GitHub Social Network Analysis Platform**
 
 <table>
 <tr>
 <td width="50%">
 
-**🏅 Key Achievements:**
-- **Top 5% Performance** in "Introduction to Programming in C" (IIT Kanpur)
-- **Elite + Silver Medal** in Google Cloud Platform (IIT Kharagpur)
-- **NPTEL Discipline Star** recognition across 5+ courses
-- **Multi-domain expertise** in Cloud Systems, Algorithms, Data Science
+**Core Features**
+- Data Processing: 500+ user social graphs
+- Algorithm Integration: Dijkstra's, BFS, Louvain, Girvan-Newman
+- Dynamic Visualization: D3.js community detection
+- Real-time graph processing
+- Responsive React interface
 
 </td>
 <td width="50%">
 
-**📚 Course Highlights:**
+**Technical Highlights**
+- Centrality ranking algorithms
+- Interactive graph visualizations
+- Optimized data structures
+- REST API integration
+- Performance-optimized rendering
+
+</td>
+</tr>
+</table>
+
+**[View Source Code](https://github.com/savetree-1/GitConnectX)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Forest Fire Detection System
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-FF69B4?style=for-the-badge" />
+</div>
+
+<br/>
+
+**AI-Powered Real-Time Fire Detection System**
+
+<table>
+<tr>
+<td width="50%">
+
+**Model Performance**
+- Accuracy: 94% in fire/non-fire classification
+- Custom CNN architecture
+- Training dataset: 1,000+ labeled images
+- Inference latency: <300ms
+
+</td>
+<td width="50%">
+
+**Capabilities**
+- Real-time webcam detection
+- Video file processing
+- Batch image processing
+- TensorFlow Lite optimization
+- Multi-source input support
+
+</td>
+</tr>
+</table>
+
+**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/forest_fire_detection_uttarakhand)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d6c0-eba1-410c-8060-08cf98c25a90.png" width="25"> MetaShield - Metadata Stripping Tool
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge" />
+</div>
+
+<br/>
+
+**Advanced File Metadata Sanitization Tool**
+
+<table>
+<tr>
+<td width="50%">
+
+**Format Support**
+- Images: JPG, PNG, GIF, BMP
+- Videos: MP4, AVI, MOV
+- Documents: PDF, DOCX, XLSX
+- Batch processing: 100+ files
+
+</td>
+<td width="50%">
+
+**Features**
+- Complete metadata removal
+- Drag-and-drop interface
+- Real-time progress tracking
+- Processing analytics
+- Privacy protection
+
+</td>
+</tr>
+</table>
+
+**[View Source Code](https://github.com/savetree-1/MetaShield_)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab4f81e2f4.png" width="25"> Image Steganography - Secure Cryptography
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge" />
+</div>
+
+<br/>
+
+**Advanced Steganographic Message Hiding System**
+
+<table>
+<tr>
+<td width="50%">
+
+**Security Features**
+- Password-protected encryption
+- MSB-based bit embedding
+- Zero visual distortion
+- Data integrity validation
+
+</td>
+<td width="50%">
+
+**Technical Specs**
+- Validated with 100+ stego images
+- Tkinter GUI interface
+- JPEG, PNG format support
+- Reliable message recovery
+
+</td>
+</tr>
+</table>
+
+**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography)** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Technical Skills
+
+### Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+### Web & App Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+### Cloud & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
+
+### Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
+
+### Tools & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> Competitive Programming Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<th>Platform</th>
+<th>Rating</th>
+<th>Global Rank</th>
+<th>Problems Solved</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></td>
+<td align="center"><strong>2000+</strong></td>
+<td align="center"><strong>5713</strong><br/>(Top 7%)</td>
+<td align="center"><strong>300+</strong></td>
+<td align="center">Expert Level</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></td>
+<td align="center"><strong>1800+</strong><br/>(4★)</td>
+<td align="center"><strong>4555</strong></td>
+<td align="center"><strong>250+</strong></td>
+<td align="center">4 Star Coder</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></td>
+<td align="center"><strong>Expert</strong></td>
+<td align="center">-</td>
+<td align="center"><strong>200+</strong></td>
+<td align="center">Expert Rating</td>
+</tr>
+<tr>
+<td align="center"><strong>TOTAL</strong></td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center"><strong>750+</strong></td>
+<td align="center">Multi-Platform Expert</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_title=false&border_radius=10" alt="Activity Graph" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savetree-1&theme=tokyonight" alt="Profile Summary" width="97%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35"> Professional Experience & Certifications
+
+### SWAYAM NPTEL Certification Program
+**Duration:** Dec 2023 - Apr 2025 | **Status:** Discipline Star Awardee
+
+<table>
+<tr>
+<td width="50%">
+
+**Key Achievements**
+- Top 5% in "Programming in C" (IIT Kanpur)
+- Elite + Silver Medal in Google Cloud Platform
+- NPTEL Discipline Star across 5+ courses
+- 50+ Certified Learning Hours
+- Multi-domain expertise
+
+</td>
+<td width="50%">
+
+**Course Highlights**
 - Advanced Cloud Computing & Systems Design
 - Data Structures & Algorithms Optimization
-- Machine Learning & Data Science Applications
+- Machine Learning & Data Science
 - Software Engineering Best Practices
+- Distributed Systems Architecture
 
 </td>
 </tr>
 </table>
 
-### 🏆 CN Dominator Challenge
-**Duration:** Dec 2023 (30-Day Intensive Program)  
-**Platform:** Coding Ninjas
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-- **🥇 Top 3% Rank** (27/1000+ participants)
-- **⚡ 90% Completion Rate** under strict time constraints
-- **🧠 30 Algorithmic Challenges** solved consecutively
-- **🎯 Consistency Award** for maintaining high performance throughout
+### CN Dominator Challenge
+**Duration:** Dec 2023 (30-Day Program) | **Platform:** Coding Ninjas
 
----
+<table>
+<tr>
+<td width="25%" align="center">
+<h3>27/1000+</h3>
+<strong>Top 3% Rank</strong>
+</td>
+<td width="25%" align="center">
+<h3>90%</h3>
+<strong>Completion Rate</strong>
+</td>
+<td width="25%" align="center">
+<h3>30</h3>
+<strong>Challenges Solved</strong>
+</td>
+<td width="25%" align="center">
+<h3>100%</h3>
+<strong>Consistency</strong>
+</td>
+</tr>
+</table>
 
-## 🌟 Awards & Recognition
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"> Awards & Recognition
 
 <div align="center">
 
-### 🏅 Academic Excellence
-| Award | Institution | Year | Achievement |
-|:---:|:---:|:---:|:---:|
-| **NPTEL Discipline Star** | IIT Consortium | 2025 | Multi-course Excellence |
-| **Elite + Silver Medal** | IIT Kanpur | 2024 | Top 5% Programming in C |
-| **Elite + Silver Medal** | IIT Kharagpur | 2024 | Google Cloud Platform |
-| **PMO Appreciation** | Prime Minister's Office | 2023 | PMSS Scholarship |
+### Academic Excellence
+<table>
+<tr>
+<th>Award</th>
+<th>Institution</th>
+<th>Year</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td><strong>NPTEL Discipline Star</strong></td>
+<td>IIT Consortium</td>
+<td>2025</td>
+<td>Multi-course Excellence</td>
+</tr>
+<tr>
+<td><strong>Elite + Silver Medal</strong></td>
+<td>IIT Kanpur</td>
+<td>2024</td>
+<td>Top 5% Programming in C</td>
+</tr>
+<tr>
+<td><strong>Elite + Silver Medal</strong></td>
+<td>IIT Kharagpur</td>
+<td>2024</td>
+<td>Google Cloud Platform</td>
+</tr>
+<tr>
+<td><strong>PMO Appreciation</strong></td>
+<td>Prime Minister's Office</td>
+<td>2023</td>
+<td>PMSS Scholarship</td>
+</tr>
+</table>
 
-### 🏆 Competitive Programming
-| Competition | Rank | Participants | Achievement |
-|:---:|:---:|:---:|:---:|
-| **CN Dominator Challenge** | 27 | 1000+ | Top 3% |
-| **LeetCode Global** | 5713 | 100,000+ | Top 7% |
-| **CodeChef Rating** | 4555 | 50,000+ | 4 Star |
+<br/>
 
-### 🥇 Mathematical Olympiads
-| Olympiad | Medal | Level | Recognition |
-|:---:|:---:|:---:|:---:|
-| **IMA (International)** | Gold | International | Excellence Award |
-| **NSO (National)** | Silver | National | Top Performer |
-| **ISKO (International)** | Silver | International | Merit Award |
-| **Zonal Mathematics** | Top-10 | Regional | Rank Holder |
+### Competitive Programming
+<table>
+<tr>
+<th>Competition</th>
+<th>Rank</th>
+<th>Participants</th>
+<th>Achievement</th>
+</tr>
+<tr>
+<td><strong>CN Dominator Challenge</strong></td>
+<td>27</td>
+<td>1000+</td>
+<td>Top 3%</td>
+</tr>
+<tr>
+<td><strong>LeetCode Global</strong></td>
+<td>5713</td>
+<td>100,000+</td>
+<td>Top 7%</td>
+</tr>
+<tr>
+<td><strong>CodeChef Rating</strong></td>
+<td>4555</td>
+<td>50,000+</td>
+<td>4 Star Coder</td>
+</tr>
+</table>
+
+<br/>
+
+### Mathematical Olympiads
+<table>
+<tr>
+<th>Olympiad</th>
+<th>Medal</th>
+<th>Level</th>
+<th>Recognition</th>
+</tr>
+<tr>
+<td><strong>IMA (International)</strong></td>
+<td>Gold</td>
+<td>International</td>
+<td>Excellence Award</td>
+</tr>
+<tr>
+<td><strong>NSO (National)</strong></td>
+<td>Silver</td>
+<td>National</td>
+<td>Top Performer</td>
+</tr>
+<tr>
+<td><strong>ISKO (International)</strong></td>
+<td>Silver</td>
+<td>International</td>
+<td>Merit Award</td>
+</tr>
+<tr>
+<td><strong>Zonal Mathematics</strong></td>
+<td>Top-10</td>
+<td>Regional</td>
+<td>Rank Holder</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35"> Connect With Me
 
 <div align="center">
   
@@ -296,35 +532,33 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savetree-1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xxxx/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/xxxx)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/xxxx
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/xxxx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankush.rawat.work@gmail.com)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📱 Contact Information
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b5477.png" width="35"> Contact Information
 
 <div align="center">
   
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
 <strong>ankush.rawat.work@gmail.com</strong>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /><br>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
 <strong>+91 74540619XX</strong>
 </td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Location-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /><br>
-<strong>Dehradun, Uttarakhand, India</strong>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Location-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" /><br/>
+<strong>Dehradun, Uttarakhand</strong>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/University-1976D2?style=for-the-badge&logo=university&logoColor=white" alt="University" /><br>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/University-1976D2?style=for-the-badge&logo=university&logoColor=white" /><br/>
 <strong>Graphic Era Hill University</strong>
 </td>
 </tr>
@@ -332,18 +566,20 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   
-### 💡 *"Transforming ideas into innovative solutions through code, one algorithm at a time."*
+### **"Transforming ideas into innovative solutions through code, one algorithm at a time."**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descAlignY=51&descAlign=62" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descAlignY=51&descAlign=62" alt="Footer"/>
 </div>
