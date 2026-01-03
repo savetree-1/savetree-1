@@ -76,7 +76,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Pursuing*
+**Pursuing**
 
 <br/>
 
