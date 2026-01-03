@@ -76,7 +76,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Academic Excellence**
+**Pursuing*
 
 <br/>
 
@@ -84,7 +84,7 @@
 University: Graphic Era Hill University, Dehradun
 Degree: B.Tech in Computer Science Engineering
 Duration: 2023 - 2027
-CGPA: 9.35/10
+
 ```
 
 <br/>
