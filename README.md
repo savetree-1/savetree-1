@@ -154,7 +154,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./frontend.png" width="100%" alt="Frontend" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark" height="70" alt="frontend icons" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap,html,css&theme=dark" height="70" alt="frontend icons" />
     </td>
   </tr>
   <tr>
