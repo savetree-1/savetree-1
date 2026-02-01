@@ -314,7 +314,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
         <strong>Frontend</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma,swiftui&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=swiftui,react,nextjs,tailwind,redux,figma&theme=dark" />
       </td>
     </tr>
     <tr>
