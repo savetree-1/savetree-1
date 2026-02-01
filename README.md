@@ -1,5 +1,7 @@
 
 
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" alt="Header"/>
 </div>
@@ -160,7 +162,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./backend.png" width="100%" alt="Backend" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark" height="70" alt="backend icons" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask,nodejs,flask&theme=dark" height="70" alt="backend icons" />
     </td>
   </tr>
   <tr>
