@@ -149,7 +149,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./frontend.png" height="45" alt="Frontend" />
+      <img src="./frontend_.png" height="45" alt="Frontend" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark" height="70" alt="frontend icons" />
@@ -165,7 +165,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./database.png" height="45" alt="Database" />
+      <img src="./database_.png" height="45" alt="Database" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra&theme=dark" height="70" alt="database icons" />
