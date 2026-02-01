@@ -144,7 +144,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./lang.png" width="100%" alt="Languages" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,kotlin&theme=dark" height="70" alt="languages icons" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" />
     </td>
   </tr>
   <tr>
