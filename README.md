@@ -119,8 +119,8 @@ CN Dominator: Top 3% (Rank 27/1000+)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=savetree-1&theme=tokyonight&hide_border=true&v=2" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=savetree-1&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
 
