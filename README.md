@@ -136,133 +136,24 @@ CN Dominator: Top 3% (Rank 27/1000+)
 </div>
 <br/>
 
-**Languages**
+**Languages** &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=python&theme=dark" height="85" alt="python" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="85" alt="cpp" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=c&theme=dark" height="85" alt="c" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=java&theme=dark" height="85" alt="java" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=js&theme=dark" height="85" alt="javascript" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="85" alt="typescript" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=swift&theme=dark" height="85" alt="swift" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="85" alt="kotlin" align="middle" />
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="85" alt="python" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="85" alt="cpp" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="85" alt="c" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="85" alt="java" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="85" alt="javascript" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="85" alt="typescript" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=swift&theme=dark" height="85" alt="swift" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="85" alt="kotlin" />
-</p>
-
 <br/>
-
-**Frontend**
+**Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react&theme=dark" height="85" alt="react" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="85" alt="nextjs" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=vue&theme=dark" height="85" alt="vue" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="85" alt="tailwind" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="85" alt="redux" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="85" alt="figma" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="85" alt="bootstrap" align="middle" />
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="85" alt="react" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="85" alt="nextjs" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark" height="85" alt="vue" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="85" alt="tailwind" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="85" alt="redux" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="85" alt="figma" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="85" alt="bootstrap" />
-</p>
-
 <br/>
-
-**Backend**
+**Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="85" alt="nodejs" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=express&theme=dark" height="85" alt="express" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="85" alt="nestjs" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=django&theme=dark" height="85" alt="django" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="85" alt="fastapi" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="85" alt="graphql" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="85" alt="spring" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="85" alt="flask" align="middle" />
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="85" alt="nodejs" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="85" alt="express" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="85" alt="nestjs" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" height="85" alt="django" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="85" alt="fastapi" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="85" alt="graphql" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="85" alt="spring" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="85" alt="flask" />
-</p>
-
 <br/>
-
-**Database**
+**Database** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="85" alt="mysql" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="85" alt="mongodb" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="85" alt="postgresql" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="85" alt="sqlite" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="85" alt="redis" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="85" alt="firebase" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="85" alt="supabase" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" height="85" alt="cassandra" align="middle" />
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="85" alt="mysql" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="85" alt="mongodb" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="85" alt="postgresql" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="85" alt="sqlite" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="85" alt="redis" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="85" alt="firebase" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="85" alt="supabase" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" height="85" alt="cassandra" />
-</p>
-
 <br/>
-
-**Cloud & DevOps**
+**Cloud & DevOps** <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="85" alt="aws" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="85" alt="azure" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="85" alt="gcp" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="85" alt="docker" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="85" alt="kubernetes" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="85" alt="terraform" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="85" alt="vercel" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="85" alt="linux" align="middle" />
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="85" alt="aws" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" height="85" alt="azure" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="85" alt="gcp" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="85" alt="docker" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="85" alt="kubernetes" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" height="85" alt="terraform" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="85" alt="vercel" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="85" alt="linux" />
-</p>
-
 <br/>
-
-**AI / ML + Tools**
+**AI / ML + Tools** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="85" alt="tensorflow" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="85" alt="pytorch" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="85" alt="opencv" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="85" alt="sklearn" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=apple&theme=dark" height="85" alt="apple" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="85" alt="vscode" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" height="85" alt="pycharm" align="middle" /> &nbsp; <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="85" alt="postman" align="middle" />
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="85" alt="tensorflow" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="85" alt="pytorch" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="85" alt="opencv" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="85" alt="sklearn" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=apple&theme=dark" height="85" alt="apple" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="85" alt="vscode" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" height="85" alt="pycharm" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="85" alt="postman" />
-</p>
+<br/>
 
 <br/>
 </div>
