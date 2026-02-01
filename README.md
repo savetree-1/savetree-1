@@ -625,7 +625,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/savetree-1/savetree-1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
