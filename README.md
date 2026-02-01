@@ -291,61 +291,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 **[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography)**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Synapse & Arsenal
-<div align="center">
-<table width="100%">
-
-<tr>
-<td width="140" align="center"><strong>Languages</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,swift,kotlin&theme=dark"/>
-</td>
-</tr>
-
-<tr>
-<td width="140" align="center"><strong>Frontend</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark"/>
-</td>
-</tr>
-
-<tr>
-<td width="140" align="center"><strong>Backend</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark"/>
-</td>
-</tr>
-
-<tr>
-<td width="140" align="center"><strong>Database</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis,firebase,supabase,cassandra&theme=dark"/>
-</td>
-</tr>
-
-<tr>
-<td width="140" align="center"><strong>Cloud & DevOps</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark"/>
-</td>
-</tr>
-
-<tr>
-<td width="140" align="center"><strong>AI / ML + Tools</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn
-,apple,vscode,pycharm,postman&theme=dark"/>
-</td>
-</tr>
-
-</table>
-</div>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## Competitive Programming Statistics
 
