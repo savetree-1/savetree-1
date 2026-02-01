@@ -303,7 +303,6 @@ CN Dominator: Top 3% (Rank 27/1000+)
   <table>
     <tr>
       <td align="center" width="120">
-
         <strong>Languages</strong>
       </td>
       <td align="center">
@@ -312,7 +311,6 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-
         <strong>Frontend</strong>
       </td>
       <td align="center">
@@ -321,7 +319,6 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-
         <strong>Backend</strong>
       </td>
       <td align="center">
@@ -330,7 +327,6 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-
         <strong>Database</strong>
       </td>
       <td align="center">
@@ -339,7 +335,6 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-
         <strong>Cloud</strong>
       </td>
       <td align="center">
@@ -348,7 +343,6 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
        <tr>
       <td align="center" width="120">
-
         <strong>Tools</strong>
       </td>
       <td align="center">
