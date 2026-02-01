@@ -134,53 +134,43 @@ CN Dominator: Top 3% (Rank 27/1000+)
   <img src="https://github-readme-stats-fast.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=savetree-1&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-<div align="center">
-<table width="100%">
+<br/>
 
-<tr>
-<td width="140" align="center"><strong>Languages</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,swift,kotlin&theme=dark"/>
-</td>
-</tr>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,swift,kotlin&theme=dark" />
 
-<tr>
-<td width="140" align="center"><strong>Frontend</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark"/>
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="140" align="center"><strong>Backend</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark"/>
-</td>
-</tr>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark" />
 
-<tr>
-<td width="140" align="center"><strong>Database</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis,firebase,supabase,cassandra&theme=dark"/>
-</td>
-</tr>
+<br/>
 
-<tr>
-<td width="140" align="center"><strong>Cloud & DevOps</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark"/>
-</td>
-</tr>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark" />
 
-<tr>
-<td width="140" align="center"><strong>AI / ML + Tools</strong></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn
-,apple,vscode,pycharm,postman&theme=dark"/>
-</td>
-</tr>
+<br/>
 
-</table>
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis,firebase,supabase,cassandra&theme=dark" />
+
+<br/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark" />
+
+<br/>
+
+**AI / ML + Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" />
+
+<br/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
