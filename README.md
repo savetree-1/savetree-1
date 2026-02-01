@@ -6,6 +6,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="icons/REACT.svg" width="40"/>
+  <img src="icons/NODE JS.svg" width="40"/>
+  <img src="icons/PYTHON.svg" width="40"/>
+  <img src="icons/GIT.svg" width="40"/>
 </div><!-- Hero Section -->
 <div align="center">
   <img
