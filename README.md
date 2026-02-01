@@ -140,7 +140,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 <br/>
 
 <div align="center">
-<table border="0" width="100%">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="200" align="center" valign="middle">
       <img src="./lang.png" width="100%" alt="Languages" />
