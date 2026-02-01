@@ -298,7 +298,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 ### Programming Languages
 <div align="center">
   <!-- Use a creative "Console" style header or just clean spacing -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 
   <table>
     <tr>
