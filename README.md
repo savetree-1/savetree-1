@@ -141,7 +141,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 <table border="0">
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./header_languages.png" height="48" alt="Languages" />
+      <img src="./lang.png" height="55" alt="Languages" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,kotlin&theme=dark" height="70" alt="languages icons" />
@@ -149,7 +149,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./header_frontend.png" height="48" alt="Frontend" />
+      <img src="./frontend.png" height="55" alt="Frontend" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark" height="70" alt="frontend icons" />
@@ -157,7 +157,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./header_backend.png" height="48" alt="Backend" />
+      <img src="./backend.png" height="55" alt="Backend" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark" height="70" alt="backend icons" />
@@ -165,7 +165,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./header_database.png" height="48" alt="Database" />
+      <img src="./database.png" height="55" alt="Database" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra&theme=dark" height="70" alt="database icons" />
@@ -173,7 +173,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./header_cloud.png" height="48" alt="Cloud & DevOps" />
+      <img src="./cloud.png" height="55" alt="Cloud & DevOps" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark" height="70" alt="cloud icons" />
@@ -181,7 +181,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./header_ai.png" height="48" alt="AI / ML + Tools" />
+      <img src="./aiml.png" height="55" alt="AI / ML + Tools" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" />
