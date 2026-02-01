@@ -146,7 +146,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./lang.png" width="100%" alt="Languages" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./learning.png" height="70" alt="Learning" valign="middle" />
     </td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./aiml.png" width="100%" alt="AI / ML + Tools" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" /> <img src="./learning.png" height="70" alt="Learning" valign="middle" /> <img src="./learning.png" height="70" alt="Learning" valign="middle" />
     </td>
   </tr>
 </table>
