@@ -138,37 +138,49 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,swift,kotlin&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,swift,kotlin&theme=dark" height="70" alt="Languages" />
+</p>
 
 <br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark" height="70" alt="Frontend" />
+</p>
 
 <br/>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark" height="70" alt="Backend" />
+</p>
 
 <br/>
 
 **Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis,firebase,supabase,cassandra&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis,firebase,supabase,cassandra&theme=dark" height="70" alt="Database" />
+</p>
 
 <br/>
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark" height="70" alt="Cloud & DevOps" />
+</p>
 
 <br/>
 
 **AI / ML + Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="AI / ML + Tools" />
+</p>
 
 <br/>
 </div>
