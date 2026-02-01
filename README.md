@@ -146,7 +146,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./lang.png" width="100%" alt="Languages" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
     </td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./database.png" width="100%" alt="Database" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,mariadb,dynamodb&theme=dark" height="70" alt="database icons" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,dynamodb&theme=dark" height="70" alt="database icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
     </td>
   </tr>
   <tr>
@@ -186,7 +186,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./aiml.png" width="100%" alt="AI / ML + Tools" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
     </td>
   </tr>
 </table>
