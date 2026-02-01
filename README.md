@@ -303,8 +303,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://media.giphy.com/media/iTVRjCQ57ZasVde8T1/giphy.gif" width="55" height="55" />
-        <br />
+
         <strong>Languages</strong>
       </td>
       <td align="center">
@@ -313,8 +312,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55" height="55" />
-        <br />
+
         <strong>Frontend</strong>
       </td>
       <td align="center">
@@ -323,8 +321,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55" height="55" />
-        <br />
+
         <strong>Backend</strong>
       </td>
       <td align="center">
@@ -333,8 +330,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://media.giphy.com/media/QTfXOpkpZqW7C/giphy.gif" width="55" height="55" />
-        <br />
+
         <strong>Database</strong>
       </td>
       <td align="center">
@@ -343,8 +339,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://media.giphy.com/media/4Nfkx0tYqWq9mH3Jz5/giphy.gif" width="50" height="50" />
-        <br />
+
         <strong>Cloud</strong>
       </td>
       <td align="center">
@@ -353,8 +348,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </tr>
        <tr>
       <td align="center" width="120">
-        <img src="https://media.giphy.com/media/IdBTpLFWZ63t09X3Ks/giphy.gif" width="50" height="50" />
-        <br />
+
         <strong>Tools</strong>
       </td>
       <td align="center">
