@@ -137,6 +137,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
 </div>
 <br/>
 
+<div align="center">
 <table border="0">
   <tr>
     <td width="200" align="center" valign="middle">
@@ -187,6 +188,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
     </td>
   </tr>
 </table>
+</div>
 <br/>
 <br/>
 
