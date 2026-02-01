@@ -146,7 +146,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./lang.png" width="100%" alt="Languages" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" /> <img src="./timed.png" height="50" alt="Learning" valign="middle" />
     </td>
   </tr>
   <tr>
@@ -154,7 +154,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./frontend.png" width="100%" alt="Frontend" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" height="70" alt="frontend icons" /> <img src="./swiftui.png" height="50" style="vertical-align: 15px;" alt="SwiftUI" /> <img src="./uikit.svg" height="40" style="vertical-align: 15px;" alt="UIKit" /> <img src="https://skillicons.dev/icons?i=figma,bootstrap,html,css&theme=dark" height="70" alt="frontend icons" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" height="70" alt="frontend icons" /> <img src="./swiftui.png" height="50" style="vertical-align: 15px;" alt="SwiftUI" /> <img src="./uikit.svg" height="40" style="vertical-align: 15px;" alt="UIKit" /> <img src="https://skillicons.dev/icons?i=figma,bootstrap,html&theme=dark" height="70" alt="frontend icons" />
     </td>
   </tr>
   <tr>
