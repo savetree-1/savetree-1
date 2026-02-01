@@ -162,7 +162,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./backend.png" width="100%" alt="Backend" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask,nodejs,flask&theme=dark" height="70" alt="backend icons" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask,kafka,go&theme=dark" height="70" alt="backend icons" />
     </td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./database.png" width="100%" alt="Database" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,oracle,nginx&theme=dark" height="70" alt="database icons" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,mariadb,dynamodb&theme=dark" height="70" alt="database icons" />
     </td>
   </tr>
   <tr>
