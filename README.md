@@ -3,51 +3,8 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18" alt="Header"/>
+  <img src="./intro.png" width="100%" alt="Intro" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Full+Stack+Developer;Competitive+Programmer;Cloud+Enthusiast;Problem+Solver;750%2B+DSA+Problems+Solved;AWS+Certified+Cloud+Practitioner;NPTEL+Discipline+Star+Awardee" alt="Typing SVG" />
-</div><!-- Hero Section -->
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    width="90"
-    alt="GitHub Logo"
-  />
-
-
-  <p style="max-width: 600px;">
-    Computer Science Engineer • Full Stack Developer • Competitive Programmer<br/>
-    Building scalable systems, solving real-world problems, and shipping clean code.
-  </p>
-</div>
-
-<!-- ===== SECTION 2: BADGES & QUICK STATS ===== -->
-
-<!-- Primary social proof badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=savetree-1&label=Profile%20Views&style=for-the-badge&color=58a6ff" />
-  <img src="https://img.shields.io/github/followers/savetree-1?label=Followers&style=for-the-badge&color=58a6ff" />
-  <img src="https://img.shields.io/github/stars/savetree-1?label=Total%20Stars&style=for-the-badge&color=58a6ff" />
-</p>
-
-<!-- Personality / identity accent badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lifelong-Learner-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem-Solver-f97316?style=for-the-badge" />
-</p>
-
-<!-- small caption to humanize the numbers -->
-<p align="center">
-  <em>Consistency, curiosity, and continuous improvement.</em>
-</p>
-
-<!-- GitHub stats cards -->
-
-
-<!-- divider to next section -->
 <div align="center" style="margin:16px 0;">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
 </div>
