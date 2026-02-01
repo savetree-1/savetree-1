@@ -295,65 +295,58 @@ CN Dominator: Top 3% (Rank 27/1000+)
 
 ## Synapse & Arsenal
 
-### Programming Languages
 <div align="center">
-  <!-- Use a creative "Console" style header or just clean spacing -->
+<table width="100%">
 
+<tr>
+<td width="140" align="center"><strong>Languages</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,swift,kotlin&theme=dark"/>
+</td>
+</tr>
 
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <strong>Languages</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash,swift&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <strong>Frontend</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=swiftui,react,nextjs,tailwind,redux,figma&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <strong>Backend</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <strong>Database</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,oracle,supabase&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <strong>Cloud</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux&theme=dark" />
-      </td>
-    </tr>
-       <tr>
-      <td align="center" width="120">
-        <strong>Tools</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=xcode,vscode,postman,anaconda,notion,latex,github,gitlab&theme=dark" />
-      </td>
-    </tr>
-  </table>
+<tr>
+<td width="140" align="center"><strong>Frontend</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,swift,figma,bootstrap&theme=dark"/>
+</td>
+</tr>
 
+<tr>
+<td width="140" align="center"><strong>Backend</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask&theme=dark"/>
+</td>
+</tr>
+
+<tr>
+<td width="140" align="center"><strong>Database</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis,firebase,supabase,cassandra&theme=dark"/>
+</td>
+</tr>
+
+<tr>
+<td width="140" align="center"><strong>Cloud & DevOps</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark"/>
+</td>
+</tr>
+
+<tr>
+<td width="140" align="center"><strong>AI / ML + Tools</strong></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn
+,apple,vscode,pycharm,postman&theme=dark"/>
+</td>
+</tr>
+
+</table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## Competitive Programming Statistics
 
