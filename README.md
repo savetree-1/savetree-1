@@ -346,7 +346,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
         <strong>Tools</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,postman,anaconda,notion,latex,xcode,github,gitlab&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=xcode,vscode,postman,anaconda,notion,latex,github,gitlab&theme=dark" />
       </td>
     </tr>
   </table>
