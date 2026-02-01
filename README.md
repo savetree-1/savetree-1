@@ -143,56 +143,43 @@ CN Dominator: Top 3% (Rank 27/1000+)
 ## Tech Stack Arsenals
 
 <div align="center">
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="./lang.png" width="100%" alt="Languages" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="./frontend.png" width="100%" alt="Frontend" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" height="70" alt="frontend icons" /> <img src="./swiftui.png" height="50" style="vertical-align: 15px;" alt="SwiftUI" /> <img src="./uikit.svg" height="40" style="vertical-align: 15px;" alt="UIKit" /> <img src="https://skillicons.dev/icons?i=figma,bootstrap,html&theme=dark" height="70" alt="frontend icons" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="./backend.png" width="100%" alt="Backend" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask,kafka,go&theme=dark" height="70" alt="backend icons" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="./database.png" width="100%" alt="Database" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,dynamodb&theme=dark" height="70" alt="database icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="./cloud.png" width="100%" alt="Cloud & DevOps" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux,git,github&theme=dark" height="70" alt="cloud icons" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="./aiml.png" width="100%" alt="AI / ML + Tools" />
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    <img src="./lang.png" height="50" alt="Languages" valign="middle" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="60" alt="languages icons" valign="middle" /> <img src="./timed.png" height="40" style="vertical-align: middle;" alt="Learning" /> <img src="./timed.png" height="40" style="vertical-align: middle;" alt="Learning" />
+  </p>
+  
+  <p>
+    <img src="./frontend.png" height="50" alt="Frontend" valign="middle" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" height="60" alt="frontend icons" valign="middle" /> <img src="./swiftui.png" height="40" style="vertical-align: middle;" alt="SwiftUI" /> <img src="./uikit.svg" height="35" style="vertical-align: middle;" alt="UIKit" /> <img src="https://skillicons.dev/icons?i=figma,bootstrap,html&theme=dark" height="60" alt="frontend icons" valign="middle" />
+  </p>
+
+  <p>
+    <img src="./backend.png" height="50" alt="Backend" valign="middle" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask,kafka,go&theme=dark" height="60" alt="backend icons" valign="middle" />
+  </p>
+
+  <p>
+    <img src="./database.png" height="50" alt="Database" valign="middle" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,dynamodb&theme=dark" height="60" alt="database icons" valign="middle" /> <img src="./timed.png" height="40" style="vertical-align: middle;" alt="Learning" />
+  </p>
+
+  <p>
+    <img src="./cloud.png" height="50" alt="Cloud & DevOps" valign="middle" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux,git,github&theme=dark" height="60" alt="cloud icons" valign="middle" />
+  </p>
+
+  <p>
+    <img src="./aiml.png" height="50" alt="AI / ML" valign="middle" />
+    &nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="60" alt="ai icons" valign="middle" /> <img src="./timed.png" height="40" style="vertical-align: middle;" alt="Learning" /> <img src="./timed.png" height="40" style="vertical-align: middle;" alt="Learning" />
+  </p>
+</div>
 </div>
 <br/>
 <br/>
