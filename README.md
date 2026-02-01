@@ -178,7 +178,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
       <img src="./cloud.png" width="100%" alt="Cloud & DevOps" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux&theme=dark" height="70" alt="cloud icons" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux,git,github&theme=dark" height="70" alt="cloud icons" />
     </td>
   </tr>
   <tr>
