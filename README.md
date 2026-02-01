@@ -43,10 +43,9 @@
 </p>
 
 <!-- GitHub stats cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=savetree-1&theme=tokyonight&hide_border=true&v=2" height="180" alt="GitHub Streak" />
-</div>
+| GitHub Stats | GitHub Streak |
+| :---: | :---: |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/savetree-1) | [![GitHub Streak](https://streak-stats.demolab.com/?user=savetree-1&theme=tokyonight&hide_border=true)](https://github.com/savetree-1) |
 
 <!-- divider to next section -->
 <div align="center" style="margin:16px 0;">
