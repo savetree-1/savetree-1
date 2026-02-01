@@ -306,7 +306,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
         <strong>Languages</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash,swift&theme=dark" />
       </td>
     </tr>
     <tr>
@@ -314,7 +314,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
         <strong>Frontend</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma,swiftui&theme=dark" />
       </td>
     </tr>
     <tr>
@@ -330,7 +330,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
         <strong>Database</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,oracle&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,oracle,supabase&theme=dark" />
       </td>
     </tr>
     <tr>
@@ -346,7 +346,7 @@ CN Dominator: Top 3% (Rank 27/1000+)
         <strong>Tools</strong>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,postman,anaconda,notion,latex&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=vscode,postman,anaconda,notion,latex,xcode,github,gitlab&theme=dark" />
       </td>
     </tr>
   </table>
