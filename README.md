@@ -131,8 +131,8 @@ CN Dominator: Top 3% (Rank 27/1000+)
 ## Synapse & Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=savetree-1&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=16" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=savetree-1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&border_radius=16" height="180" alt="GitHub Streak" />
 </div>
 <br/>
 
