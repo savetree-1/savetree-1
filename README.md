@@ -162,7 +162,7 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ### Forest Fire Detection System
 
@@ -198,7 +198,7 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ### MetaShield - Metadata Stripping Tool
 
@@ -233,7 +233,7 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 ### Image Steganography - Secure Cryptography
 
