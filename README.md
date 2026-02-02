@@ -134,15 +134,16 @@
 <td width="55%">
   <div align="center">
   <img src="./gitconnectx.png" width="100%" alt="GitConnectX" />
-  <br/><br/>
+  </div>
+</td>
+<td width="45%">
+  <h4>Advanced GitHub Social Network Analysis Platform</h4>
+  <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Graph%20Algorithms-FF6B6B?style=for-the-badge" />
   </div>
-</td>
-<td width="45%">
-  <h4>Advanced GitHub Social Network Analysis Platform</h4>
   <strong>Core Features</strong>
   <ul>
     <li>Data Processing: 500+ user social graphs</li>
@@ -170,15 +171,16 @@
 <td width="55%">
   <div align="center">
   <img src="./forestfire.png" width="100%" alt="Forest Fire Detection" />
-  <br/><br/>
+  </div>
+</td>
+<td width="45%">
+  <h4>AI-Powered Real-Time Fire Detection System</h4>
+  <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-FF69B4?style=for-the-badge" />
   </div>
-</td>
-<td width="45%">
-  <h4>AI-Powered Real-Time Fire Detection System</h4>
   <strong>Model Performance</strong>
   <ul>
     <li>Accuracy: 94% in fire/non-fire classification</li>
@@ -205,15 +207,16 @@
 <td width="55%">
   <div align="center">
   <img src="./project1.png" width="100%" alt="MetaShield" />
-  <br/><br/>
+  </div>
+</td>
+<td width="45%">
+  <h4>Advanced File Metadata Sanitization Tool</h4>
+  <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge" />
   </div>
-</td>
-<td width="45%">
-  <h4>Advanced File Metadata Sanitization Tool</h4>
   <strong>Format Support</strong>
   <ul>
     <li>Images (JPG, PNG), Videos (MP4, MOV), Docs (PDF, DOCX)</li>
