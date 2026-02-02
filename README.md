@@ -373,114 +373,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Awards & Recognition
 
-<div align="center">
-
-### Academic Excellence
-<table>
-<tr>
-<th>Award</th>
-<th>Institution</th>
-<th>Year</th>
-<th>Achievement</th>
-</tr>
-<tr>
-<td><strong>NPTEL Discipline Star</strong></td>
-<td>IIT Consortium</td>
-<td>2025</td>
-<td>Multi-course Excellence</td>
-</tr>
-<tr>
-<td><strong>Elite + Silver Medal</strong></td>
-<td>IIT Kanpur</td>
-<td>2024</td>
-<td>Top 5% Programming in C</td>
-</tr>
-<tr>
-<td><strong>Elite + Silver Medal</strong></td>
-<td>IIT Kharagpur</td>
-<td>2024</td>
-<td>Google Cloud Platform</td>
-</tr>
-<tr>
-<td><strong>PMO Appreciation</strong></td>
-<td>Prime Minister's Office</td>
-<td>2023</td>
-<td>PMSS Scholarship</td>
-</tr>
-</table>
-
-<br/>
-
-### Competitive Programming
-<table>
-<tr>
-<th>Competition</th>
-<th>Rank</th>
-<th>Participants</th>
-<th>Achievement</th>
-</tr>
-<tr>
-<td><strong>CN Dominator Challenge</strong></td>
-<td>27</td>
-<td>1000+</td>
-<td>Top 3%</td>
-</tr>
-<tr>
-<td><strong>LeetCode Global</strong></td>
-<td>5713</td>
-<td>100,000+</td>
-<td>Top 7%</td>
-</tr>
-<tr>
-<td><strong>CodeChef Rating</strong></td>
-<td>4555</td>
-<td>50,000+</td>
-<td>4 Star Coder</td>
-</tr>
-</table>
-
-<br/>
-
-### Mathematical Olympiads
-<table>
-<tr>
-<th>Olympiad</th>
-<th>Medal</th>
-<th>Level</th>
-<th>Recognition</th>
-</tr>
-<tr>
-<td><strong>IMA (International)</strong></td>
-<td>Gold</td>
-<td>International</td>
-<td>Excellence Award</td>
-</tr>
-<tr>
-<td><strong>NSO (National)</strong></td>
-<td>Silver</td>
-<td>National</td>
-<td>Top Performer</td>
-</tr>
-<tr>
-<td><strong>ISKO (International)</strong></td>
-<td>Silver</td>
-<td>International</td>
-<td>Merit Award</td>
-</tr>
-<tr>
-<td><strong>Zonal Mathematics</strong></td>
-<td>Top-10</td>
-<td>Regional</td>
-<td>Rank Holder</td>
-</tr>
-</table>
-
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Honors & Achievements
 
@@ -488,7 +381,7 @@ My journey is marked by consistent academic excellence and national-level recogn
 
 Academically, I received a distinctive **Congratulatory Letter from the [Prime Minister's Office](https://www.pmindia.gov.in)** for outstanding merit, awarding me the **PMSS Scholarship** (National Defence Fund). My dedication to continuous learning was recognized by **[NPTEL](https://nptel.ac.in)** as a **Discipline Star**—an honor given for completing 50+ weeks of coursework with excellence. This includes earning an **Elite + Gold Medal** in *The Joy of Computing using Python* (IIT Madras) and **Elite + Silver Medals** in *Google Cloud Computing Foundations* (IIT Kharagpur) and *Programming in C* (IIT Kanpur, Top 5%).
 
-In the competitive arena, I ranked in the **Top 3%** of the **[Coding Ninjas](https://www.codingninjas.com)** Dominator Challenge and achieved a **Top 7% Global Rank** on **[LeetCode](https://leetcode.com)** (solving **600+ problems**). My foundation in problem-solving is rooted in early successes, including winning a **Gold Medal** in the **International Mathematic Olympiad (IMA)** and **Silver Medals** in both the **National Science Olympiad (NSO)** and **International Science & Knowledge Olympiad (ISKO)**.
+In the competitive arena, I ranked in the **Top 3%** (Rank **#27**) of the **[Coding Ninjas](https://www.codingninjas.com)** Dominator Challenge, achieved a **Top 7% Global Rank** on **[LeetCode](https://leetcode.com)** (solving **600+ problems**), and earned a **4-Star Rating** on **[CodeChef](https://www.codechef.com/users/savetree-1)**. My foundation in problem-solving is rooted in early successes, including winning a **Gold Medal** in the **International Mathematic Olympiad (IMA)**, **Silver Medals** in both the **National Science Olympiad (NSO)** and **International Science & Knowledge Olympiad (ISKO)**, and a **Top-10 Rank** in the **Zonal Mathematics Olympiad**.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
