@@ -272,39 +272,24 @@
 
 <table>
 <tr>
-<th>Platform</th>
-<th>Rating</th>
-<th>Global Rank</th>
-<th>Problems Solved</th>
-<th>Achievement</th>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></td>
-<td align="center"><strong>2000+</strong></td>
-<td align="center"><strong>5713</strong><br/>(Top 7%)</td>
-<td align="center"><strong>300+</strong></td>
-<td align="center">Expert Level</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></td>
-<td align="center"><strong>1800+</strong><br/>(4★)</td>
-<td align="center"><strong>4555</strong></td>
-<td align="center"><strong>250+</strong></td>
-<td align="center">4 Star Coder</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></td>
-<td align="center"><strong>Expert</strong></td>
-<td align="center">-</td>
-<td align="center"><strong>200+</strong></td>
-<td align="center">Expert Rating</td>
-</tr>
-<tr>
-<td align="center"><strong>TOTAL</strong></td>
-<td align="center">-</td>
-<td align="center">-</td>
-<td align="center"><strong>750+</strong></td>
-<td align="center">Multi-Platform Expert</td>
+<td width="33%" align="center">
+  <img src="./lc.png" width="100%" alt="LeetCode" />
+  <br/><br/>
+  <strong>LeetCode</strong><br/>
+  Guardian 2100+
+</td>
+<td width="33%" align="center">
+  <img src="./cf.png" width="100%" alt="Codeforces" />
+  <br/><br/>
+  <strong>Codeforces</strong><br/>
+  Expert 1600+
+</td>
+<td width="33%" align="center">
+  <img src="./cc.png" width="100%" alt="CodeChef" />
+  <br/><br/>
+  <strong>CodeChef</strong><br/>
+  4 Star 1800+
+</td>
 </tr>
 </table>
 
