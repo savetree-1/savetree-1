@@ -301,58 +301,41 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Professional Experience & Certifications
-
-### SWAYAM NPTEL Certification Program
-**Duration:** Dec 2023 - Apr 2025 | **Status:** Discipline Star Awardee
+## Certifications
 
 <table>
 <tr>
-<td width="50%">
-
-**Key Achievements**
-- Top 5% in "Programming in C" (IIT Kanpur)
-- Elite + Silver Medal in Google Cloud Platform
-- NPTEL Discipline Star across 5+ courses
-- 50+ Certified Learning Hours
-- Multi-domain expertise
-
+<td width="50%" align="center">
+  <img src="./aws.png" width="80%" alt="AWS" />
+  <br/><br/>
+  <strong>AWS Cloud Practitioner Essentials</strong>
 </td>
-<td width="50%">
-
-**Course Highlights**
-- Advanced Cloud Computing & Systems Design
-- Data Structures & Algorithms Optimization
-- Machine Learning & Data Science
-- Software Engineering Best Practices
-- Distributed Systems Architecture
-
+<td width="50%" align="center">
+  <img src="./cisco.png" width="80%" alt="Cisco" />
+  <br/><br/>
+  <strong>Introduction to Cybersecurity</strong><br/>
+  Cisco Networking Academy
 </td>
 </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-### CN Dominator Challenge
-**Duration:** Dec 2023 (30-Day Program) | **Platform:** Coding Ninjas
-
-<table>
 <tr>
-<td width="25%" align="center">
-<h3>27/1000+</h3>
-<strong>Top 3% Rank</strong>
+<td width="50%" align="center">
+  <img src="./google.png" width="80%" alt="Google Cloud" />
+  <br/><br/>
+  <strong>Google Cloud Computing Foundations</strong>
 </td>
-<td width="25%" align="center">
-<h3>90%</h3>
-<strong>Completion Rate</strong>
+<td width="50%" align="center">
+  <img src="./nptel1.png" width="80%" alt="NPTEL Python" />
+  <br/><br/>
+  <strong>The Joy of Computing using Python</strong><br/>
+  NPTEL Online Certification
 </td>
-<td width="25%" align="center">
-<h3>30</h3>
-<strong>Challenges Solved</strong>
-</td>
-<td width="25%" align="center">
-<h3>100%</h3>
-<strong>Consistency</strong>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="./nptel2.png" width="40%" alt="NPTEL Cloud" />
+  <br/><br/>
+  <strong>Google Cloud Computing Foundations</strong><br/>
+  NPTEL Online Certification
 </td>
 </tr>
 </table>

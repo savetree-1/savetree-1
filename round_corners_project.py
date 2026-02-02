@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 import os
 
-files = ["project1.png", "forestfire.png", "gitconnectx.png", "metashield.png", "image-ste.png", "lc.png", "cc.png", "cf.png"]
+files = ["project1.png", "forestfire.png", "gitconnectx.png", "metashield.png", "image-ste.png", "lc.png", "cc.png", "cf.png", "aws.png", "cisco.png", "google.png", "nptel1.png", "nptel2.png"]
 output_radius = 30
 
 def process_image(filename):
