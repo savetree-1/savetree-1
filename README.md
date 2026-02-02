@@ -94,13 +94,20 @@ CN Dominator: Top 3% (Rank 27/1000+)
 ## Synapse
 
 <div align="center">
+  <!-- Row 1: Stats & Streak -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="160" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=savetree-1&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&v=6" height="160" alt="GitHub Streak" />
+  
+  <br/>
+
+  <!-- Row 2: Languages & Activity -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
-</div>
 
-<br/>
+  <br/>
 
-<div align="center">
+  <!-- Row 3: Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savetree-1&theme=tokyonight" alt="Profile Summary" width="97%" />
 </div>
 
