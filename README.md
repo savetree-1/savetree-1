@@ -6,6 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18&v=3" alt="Header"/>
 </div>
 
+
+## About Me
+
 <div align="center">
   <img src="./intro.png" width="100%" alt="Intro" />
 </div>
@@ -18,78 +21,6 @@
 <!-- Divider animation -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-
-
-
-
-
-
-## About Me
-
-<div align="center">
-<!--
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=savetree-1&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
--->
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Pursuing**
-
-<br/>
-
-```yaml
-University: Graphic Era Hill University, Dehradun
-Degree: B.Tech in Computer Science Engineering
-Duration: 2023 - 2027
-
-```
-
-<br/>
-
-**Recognitions & Awards**
-
-- NPTEL Discipline Star Awardee
-- 50+ Certified Hours from IITs
-- Top 5% Performer in IIT Kanpur's Programming in C
-- 4× Silver + 1× Gold Medalist in NPTEL courses
-- PMO Letter of Appreciation (PMSS Scholarship)
-
-</td>
-<td width="50%" valign="top">
-
-**Competitive Programming**
-
-<br/>
-
-```yaml
-Total Problems Solved: 750+
-LeetCode Rating: 2000+ (Top 7%)
-CodeChef: 4★ (1800+ Rating)
-Codeforces: Expert Level
-CN Dominator: Top 3% (Rank 27/1000+)
-```
-
-<br/>
-
-**Cloud & Certifications**
-
-- AWS Certified Cloud Practitioner
-- Google Cloud Platform: Elite + Silver Medal
-- 12+ Hands-on Labs completed
-- Mathematical Olympiad: 3× Silver + 1× Gold
-
-</td>
-</tr>
-</table>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Synapse
 
