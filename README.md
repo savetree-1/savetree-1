@@ -484,6 +484,18 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## Honors & Achievements
+
+My journey is marked by consistent academic excellence and national-level recognition. In 2025, I was selected as a Mentee for the prestigious **[Amazon ML Summer School](https://www.amazon.science/academic-engagements/amazon-ml-summer-school)**, bridging the gap between theoretical machine learning and industry application. I also secured a **99.13 percentile** in **[Naukri.com's Young Turks](https://www.naukri.com)** challenge (achieving All India Rank #3559 in Round 2), placing me among the top talent nationwide.
+
+Academically, I received a distinctive **Congratulatory Letter from the [Prime Minister's Office](https://www.pmindia.gov.in)** for outstanding merit, awarding me the **PMSS Scholarship** (National Defence Fund). My dedication to continuous learning was recognized by **[NPTEL](https://nptel.ac.in)** as a **Discipline Star**—an honor given for completing 50+ weeks of coursework with excellence. This includes earning an **Elite + Gold Medal** in *The Joy of Computing using Python* (IIT Madras) and **Elite + Silver Medals** in *Google Cloud Computing Foundations* (IIT Kharagpur) and *Programming in C* (IIT Kanpur, Top 5%).
+
+In the competitive arena, I ranked in the **Top 3%** of the **[Coding Ninjas](https://www.codingninjas.com)** Dominator Challenge and achieved a **Top 7% Global Rank** on **[LeetCode](https://leetcode.com)**. My foundation in problem-solving is rooted in early successes, including winning a **Gold Medal** in the **International Mathematic Olympiad (IMA)** and **Silver Medals** in both the **National Science Olympiad (NSO)** and **International Science & Knowledge Olympiad (ISKO)**.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## Connect & Contact
 
 <div align="center">
