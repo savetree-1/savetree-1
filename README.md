@@ -534,7 +534,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/savetree-1/savetree-1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<a href="https://github.com/savetree-1">
+  <img src="https://raw.githubusercontent.com/savetree-1/savetree-1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</a>
 
 </div>
 
