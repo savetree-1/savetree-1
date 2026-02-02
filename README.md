@@ -305,37 +305,71 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="./aws.png" width="80%" alt="AWS" />
-  <br/><br/>
+<td width="25%" align="center">
+  <img src="./aws.png" width="90%" alt="AWS" />
+</td>
+<td width="75%">
   <strong>AWS Cloud Practitioner Essentials</strong>
+  <ul>
+    <li>Fundamental understanding of AWS Cloud concepts and security.</li>
+    <li>Core services: Compute, Storage, Database, and Networking.</li>
+    <li>Cloud architectural principles and pricing models.</li>
+  </ul>
 </td>
-<td width="50%" align="center">
-  <img src="./cisco.png" width="80%" alt="Cisco" />
-  <br/><br/>
+</tr>
+<tr>
+<td width="25%" align="center">
+  <img src="./cisco.png" width="90%" alt="Cisco" />
+</td>
+<td width="75%">
   <strong>Introduction to Cybersecurity</strong><br/>
-  Cisco Networking Academy
+  <em>Cisco Networking Academy</em>
+  <ul>
+    <li>Foundational knowledge of cyber threats and defense strategies.</li>
+    <li>Network security basics and data protection principles.</li>
+    <li>Understanding enterprise security infrastructure.</li>
+  </ul>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  <img src="./google.png" width="80%" alt="Google Cloud" />
-  <br/><br/>
+<td width="25%" align="center">
+  <img src="./google.png" width="90%" alt="Google Cloud" />
+</td>
+<td width="75%">
   <strong>Google Cloud Computing Foundations</strong>
-</td>
-<td width="50%" align="center">
-  <img src="./nptel1.png" width="80%" alt="NPTEL Python" />
-  <br/><br/>
-  <strong>The Joy of Computing using Python</strong><br/>
-  NPTEL Online Certification
+  <ul>
+    <li>Core infrastructure and big data capabilities of GCP.</li>
+    <li>Introduction to Machine Learning and AI on Google Cloud.</li>
+    <li>Building and deploying scalable cloud applications.</li>
+  </ul>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-  <img src="./nptel2.png" width="40%" alt="NPTEL Cloud" />
-  <br/><br/>
-  <strong>Google Cloud Computing Foundations</strong><br/>
-  NPTEL Online Certification
+<td width="25%" align="center">
+  <img src="./nptel1.png" width="90%" alt="NPTEL Python" />
+</td>
+<td width="75%">
+  <strong>The Joy of Computing using Python</strong><br/>
+  <em>NPTEL Online Certification</em>
+  <ul>
+    <li>Comprehensive Python programming and algorithmic thinking.</li>
+    <li>Hands-on problem solving and code optimization.</li>
+    <li>Data structures and functional programming concepts.</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+  <img src="./nptel2.png" width="90%" alt="NPTEL Cloud" />
+</td>
+<td width="75%">
+  <strong>Google Cloud Computing Foundations (NPTEL)</strong><br/>
+  <em>NPTEL Online Certification</em>
+  <ul>
+    <li>In-depth cloud computing curriculum offered via NPTEL.</li>
+    <li>Focus on cloud architecture, virtualization, and containerization.</li>
+    <li>Practical implementation of cloud resources and management.</li>
+  </ul>
 </td>
 </tr>
 </table>
