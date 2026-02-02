@@ -3,7 +3,11 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18&v=3" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=iOS%20Developer%20|%20CSE%20'27%20|%20Competitive%20Programmer&descAlignY=55&descSize=20&v=4" alt="Header"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=700&lines=iOS+Developer+%7C+CSE+%E2%80%9927;Mentee+%40Amazon+AMSS%E2%80%9925+%7C+Microsoft+SEFA%E2%80%9925;Expert+%40Codeforces+%7C+Knight+%40LeetCode;NPTEL+Discipline+Star+%7C+4+Star+%40CodeChef;Born+to+Code" alt="Typing SVG" />
 </div>
 
 
@@ -488,7 +492,7 @@
 
 ## Honors & Achievements
 
-My journey is marked by consistent academic excellence and national-level recognition. In 2025, I was selected as a Mentee for the prestigious **[Amazon ML Summer School](https://www.amazon.science/academic-engagements/amazon-ml-summer-school)**, bridging the gap between theoretical machine learning and industry application. I also secured a **99.13 percentile** in **[Naukri.com's Young Turks](https://www.naukri.com)** challenge (achieving All India Rank #3559 in Round 2), placing me among the top talent nationwide.
+My journey is marked by consistent academic excellence and national-level recognition. In my 3rd year, I was selected for the exclusive **iOS Student Developer Program** (Batch of 100 students across all university campuses). In 2025, I was selected as a Mentee for the prestigious **[Amazon ML Summer School](https://www.amazon.science/academic-engagements/amazon-ml-summer-school)**, bridging the gap between theoretical machine learning and industry application. I also secured a **99.13 percentile** in **[Naukri.com's Young Turks](https://www.naukri.com)** challenge (achieving All India Rank #3559 in Round 2), placing me among the top talent nationwide.
 
 Academically, I received a distinctive **Congratulatory Letter from the [Prime Minister's Office](https://www.pmindia.gov.in)** for outstanding merit, awarding me the **PMSS Scholarship** (National Defence Fund). My dedication to continuous learning was recognized by **[NPTEL](https://nptel.ac.in)** as a **Discipline Star**—an honor given for completing 50+ weeks of coursework with excellence. This includes earning an **Elite + Gold Medal** in *The Joy of Computing using Python* (IIT Madras) and **Elite + Silver Medals** in *Google Cloud Computing Foundations* (IIT Kharagpur) and *Programming in C* (IIT Kanpur, Top 5%).
 
