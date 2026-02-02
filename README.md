@@ -14,9 +14,7 @@
 <div align="center">
   <img src="./intro.png" width="100%" alt="Intro" />
 </div>
-<div align="center" style="margin:16px 0;">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-</div>
+
 
 
 
