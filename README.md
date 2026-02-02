@@ -273,19 +273,19 @@
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="./lc.png" width="100%" alt="LeetCode" />
+  <img src="./lc.png" width="80%" alt="LeetCode" />
   <br/><br/>
   <strong>LeetCode</strong><br/>
   Guardian 2100+
 </td>
 <td width="33%" align="center">
-  <img src="./cf.png" width="100%" alt="Codeforces" />
+  <img src="./cf.png" width="80%" alt="Codeforces" />
   <br/><br/>
   <strong>Codeforces</strong><br/>
   Expert 1600+
 </td>
 <td width="33%" align="center">
-  <img src="./cc.png" width="100%" alt="CodeChef" />
+  <img src="./cc.png" width="80%" alt="CodeChef" />
   <br/><br/>
   <strong>CodeChef</strong><br/>
   4 Star 1800+
