@@ -129,43 +129,37 @@
 
 ### GitConnectX - GitHub Social Network Analyzer
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
+  <div align="center">
+  <img src="./gitconnectx.png" width="100%" alt="GitConnectX" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Graph%20Algorithms-FF6B6B?style=for-the-badge" />
-</div>
-
-<br/>
-
-**Advanced GitHub Social Network Analysis Platform**
-
-<table>
-<tr>
-<td width="50%">
-
-**Core Features**
-- Data Processing: 500+ user social graphs
-- Algorithm Integration: Dijkstra's, BFS, Louvain, Girvan-Newman
-- Dynamic Visualization: D3.js community detection
-- Real-time graph processing
-- Responsive React interface
-
+  </div>
 </td>
-<td width="50%">
-
-**Technical Highlights**
-- Centrality ranking algorithms
-- Interactive graph visualizations
-- Optimized data structures
-- REST API integration
-- Performance-optimized rendering
-
+<td width="45%">
+  <h4>Advanced GitHub Social Network Analysis Platform</h4>
+  <strong>Core Features</strong>
+  <ul>
+    <li>Data Processing: 500+ user social graphs</li>
+    <li>Algorithm Integration: Dijkstra's, BFS, Louvain, Girvan-Newman</li>
+    <li>Dynamic Visualization: D3.js community detection</li>
+  </ul>
+  <strong>Technical Highlights</strong>
+  <ul>
+    <li>Centrality ranking algorithms & Interactive graph visualizations</li>
+    <li>Optimized data structures & REST API integration</li>
+    <li>Performance-optimized rendering</li>
+  </ul>
+  <br/>
+  <a href="https://github.com/savetree-1/GitConnectX"><strong>View Source Code</strong></a>
 </td>
 </tr>
 </table>
-
-**[View Source Code](https://github.com/savetree-1/GitConnectX)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
