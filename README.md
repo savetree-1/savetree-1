@@ -484,46 +484,35 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Connect With Me
+## Connect & Contact
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankus4rawat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savetree-1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xxxx/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/xxxx)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/xxxx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankush.rawat.work@gmail.com)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## Contact Information
-
-<div align="center">
-  
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
-<strong>ankush.rawat.work@gmail.com</strong>
+  <a href="mailto:ankush.rawat.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><br/>
+  <strong>ankush.rawat.work@gmail.com</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
-<strong>+91 74540619XX</strong>
+  <a href="https://linkedin.com/in/ankus4rawat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><br/>
+  <strong>ankus4rawat</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Location-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" /><br/>
-<strong>Dehradun, Uttarakhand</strong>
+  <a href="https://github.com/savetree-1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a><br/>
+  <strong>savetree-1</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/University-1976D2?style=for-the-badge&logo=university&logoColor=white" /><br/>
-<strong>Graphic Era Hill University</strong>
+  <img src="https://img.shields.io/badge/Location-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" /><br/>
+  <strong>Dehradun, Uttarakhand</strong>
 </td>
 </tr>
 </table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
