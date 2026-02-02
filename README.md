@@ -206,7 +206,7 @@
 <tr>
 <td width="55%">
   <div align="center">
-  <img src="./project1.png" width="100%" alt="MetaShield" />
+  <img src="./metashield.png" width="100%" alt="MetaShield" />
   </div>
 </td>
 <td width="45%">
@@ -239,15 +239,19 @@
 
 <table>
 <tr>
-<td width="55%" align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
-  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge" />
+<td width="55%">
+  <div align="center">
+  <img src="./image-ste.png" width="100%" alt="Image Steganography" />
+  </div>
 </td>
 <td width="45%">
   <h4>Advanced Steganographic Message Hiding System</h4>
+  <div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge" />
+  </div>
   <strong>Features</strong>
   <ul>
     <li>Password-protected encryption & MSB-based embedding</li>
