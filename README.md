@@ -171,123 +171,97 @@
 
 ### Forest Fire Detection System
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
+  <div align="center">
+  <img src="./forestfire.png" width="100%" alt="Forest Fire Detection" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-FF69B4?style=for-the-badge" />
-</div>
-
-<br/>
-
-**AI-Powered Real-Time Fire Detection System**
-
-<table>
-<tr>
-<td width="50%">
-
-**Model Performance**
-- Accuracy: 94% in fire/non-fire classification
-- Custom CNN architecture
-- Training dataset: 1,000+ labeled images
-- Inference latency: <300ms
-
+  </div>
 </td>
-<td width="50%">
-
-**Capabilities**
-- Real-time webcam detection
-- Video file processing
-- Batch image processing
-- TensorFlow Lite optimization
-- Multi-source input support
-
+<td width="45%">
+  <h4>AI-Powered Real-Time Fire Detection System</h4>
+  <strong>Model Performance</strong>
+  <ul>
+    <li>Accuracy: 94% in fire/non-fire classification</li>
+    <li>Custom CNN architecture with 1,000+ labeled images</li>
+    <li>Inference latency: <300ms</li>
+  </ul>
+  <strong>Capabilities</strong>
+  <ul>
+    <li>Real-time webcam & video file processing</li>
+    <li>TensorFlow Lite optimization & Multi-source input</li>
+  </ul>
+  <br/>
+  <a href="https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/forest_fire_detection_uttarakhand"><strong>View Source Code</strong></a>
 </td>
 </tr>
 </table>
-
-**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/forest_fire_detection_uttarakhand)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### MetaShield - Metadata Stripping Tool
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
+  <div align="center">
+  <img src="./project1.png" width="100%" alt="MetaShield" />
+  <br/><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge" />
-</div>
-
-<br/>
-
-**Advanced File Metadata Sanitization Tool**
-
-<table>
-<tr>
-<td width="50%">
-
-**Format Support**
-- Images: JPG, PNG, GIF, BMP
-- Videos: MP4, AVI, MOV
-- Documents: PDF, DOCX, XLSX
-- Batch processing: 100+ files
-
+  </div>
 </td>
-<td width="50%">
-
-**Features**
-- Complete metadata removal
-- Drag-and-drop interface
-- Real-time progress tracking
-- Processing analytics
-- Privacy protection
-
+<td width="45%">
+  <h4>Advanced File Metadata Sanitization Tool</h4>
+  <strong>Format Support</strong>
+  <ul>
+    <li>Images (JPG, PNG), Videos (MP4, MOV), Docs (PDF, DOCX)</li>
+    <li>Batch processing: 100+ files</li>
+  </ul>
+  <strong>Features</strong>
+  <ul>
+    <li>Complete metadata removal & Privacy protection</li>
+    <li>Drag-and-drop interface with Real-time progress</li>
+  </ul>
+  <br/>
+  <a href="https://github.com/savetree-1/MetaShield_"><strong>View Source Code</strong></a>
 </td>
 </tr>
 </table>
-
-**[View Source Code](https://github.com/savetree-1/MetaShield_)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### Image Steganography - Secure Cryptography
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge" />
-</div>
-
-<br/>
-
-**Advanced Steganographic Message Hiding System**
-
 <table>
 <tr>
-<td width="50%">
-
-**Security Features**
-- Password-protected encryption
-- MSB-based bit embedding
-- Zero visual distortion
-- Data integrity validation
-
+<td width="55%" align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
+  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge" />
 </td>
-<td width="50%">
-
-**Technical Specs**
-- Validated with 100+ stego images
-- Tkinter GUI interface
-- JPEG, PNG format support
-- Reliable message recovery
-
+<td width="45%">
+  <h4>Advanced Steganographic Message Hiding System</h4>
+  <strong>Features</strong>
+  <ul>
+    <li>Password-protected encryption & MSB-based embedding</li>
+    <li>Zero visual distortion & Data integrity validation</li>
+    <li>Tkinter GUI, JPEG/PNG support, Reliable recovery</li>
+  </ul>
+  <br/>
+  <a href="https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography"><strong>View Source Code</strong></a>
 </td>
 </tr>
 </table>
-
-**[View Source Code](https://github.com/savetree-1/Projects/tree/main/Mini%20Projects/image_steganography)**
 
 
 
