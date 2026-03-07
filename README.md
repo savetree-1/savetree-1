@@ -28,18 +28,18 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=savetree-1&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&v=6" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=savetree-1&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%" alt="Activity Graph" />
       </td>
     </tr>
   </table>
