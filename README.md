@@ -343,7 +343,7 @@
 </tr>
 <tr>
 <td width="25%" align="center">
-  <img src="./nptel1.png" width="90%" alt="NPTEL Python" />
+  <img src="./assets/nptel1.png" width="90%" alt="NPTEL Python" />
 </td>
 <td width="75%">
   <strong>The Joy of Computing using Python</strong><br/>
@@ -357,7 +357,7 @@
 </tr>
 <tr>
 <td width="25%" align="center">
-  <img src="./nptel2.png" width="90%" alt="NPTEL Cloud" />
+  <img src="./assets/nptel2.png" width="90%" alt="NPTEL Cloud" />
 </td>
 <td width="75%">
   <strong>Google Cloud Computing Foundations (NPTEL)</strong><br/>
