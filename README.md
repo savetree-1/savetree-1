@@ -12,7 +12,7 @@
 ## About Me
 
 <div align="center">
-  <img src="./intro.png" width="100%" alt="Intro" />
+  <img src="./assets/intro.png" width="100%" alt="Intro" />
 </div>
 
 
@@ -69,23 +69,23 @@
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./lang.png" width="100%" alt="Languages" />
+      <img src="./assets/lang.png" width="100%" alt="Languages" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,swift,kotlin,bash&theme=dark" height="70" alt="languages icons" /> <img src="./assets/timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./assets/timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
     </td>
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./frontend.png" width="100%" alt="Frontend" />
+      <img src="./assets/frontend.png" width="100%" alt="Frontend" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" height="70" alt="frontend icons" /> <img src="./swiftui.png" height="50" style="vertical-align: 15px;" alt="SwiftUI" /> <img src="./uikit.svg" height="40" style="vertical-align: 15px;" alt="UIKit" /> <img src="https://skillicons.dev/icons?i=figma,bootstrap,html&theme=dark" height="70" alt="frontend icons" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux&theme=dark" height="70" alt="frontend icons" /> <img src="./assets/swiftui.png" height="50" style="vertical-align: 15px;" alt="SwiftUI" /> <img src="./assets/uikit.svg" height="40" style="vertical-align: 15px;" alt="UIKit" /> <img src="https://skillicons.dev/icons?i=figma,bootstrap,html&theme=dark" height="70" alt="frontend icons" />
     </td>
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./backend.png" width="100%" alt="Backend" />
+      <img src="./assets/backend.png" width="100%" alt="Backend" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,spring,flask,kafka,go&theme=dark" height="70" alt="backend icons" />
@@ -93,15 +93,15 @@
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./database.png" width="100%" alt="Database" />
+      <img src="./assets/database.png" width="100%" alt="Database" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,dynamodb&theme=dark" height="70" alt="database icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase,supabase,cassandra,dynamodb&theme=dark" height="70" alt="database icons" /> <img src="./assets/timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
     </td>
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./cloud.png" width="100%" alt="Cloud & DevOps" />
+      <img src="./assets/cloud.png" width="100%" alt="Cloud & DevOps" />
     </td>
     <td valign="middle">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,linux,git,github&theme=dark" height="70" alt="cloud icons" />
@@ -109,10 +109,10 @@
   </tr>
   <tr>
     <td width="200" align="center" valign="middle">
-      <img src="./aiml.png" width="100%" alt="AI / ML + Tools" />
+      <img src="./assets/aiml.png" width="100%" alt="AI / ML + Tools" />
     </td>
     <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,apple,vscode,pycharm,postman&theme=dark" height="70" alt="ai icons" /> <img src="./assets/timed.png" height="50" style="vertical-align: 15px;" alt="Learning" /> <img src="./assets/timed.png" height="50" style="vertical-align: 15px;" alt="Learning" />
     </td>
   </tr>
 </table>
@@ -133,7 +133,7 @@
 <tr>
 <td width="55%">
   <div align="center">
-  <img src="./gitconnectx.png" width="100%" alt="GitConnectX" />
+  <img src="./assets/gitconnectx.png" width="100%" alt="GitConnectX" />
   </div>
 </td>
 <td width="45%">
@@ -170,7 +170,7 @@
 <tr>
 <td width="55%">
   <div align="center">
-  <img src="./forestfire.png" width="100%" alt="Forest Fire Detection" />
+  <img src="./assets/forestfire.png" width="100%" alt="Forest Fire Detection" />
   </div>
 </td>
 <td width="45%">
@@ -206,7 +206,7 @@
 <tr>
 <td width="55%">
   <div align="center">
-  <img src="./metashield.png" width="100%" alt="MetaShield" />
+  <img src="./assets/metashield.png" width="100%" alt="MetaShield" />
   </div>
 </td>
 <td width="45%">
@@ -241,7 +241,7 @@
 <tr>
 <td width="55%">
   <div align="center">
-  <img src="./image-ste.png" width="100%" alt="Image Steganography" />
+  <img src="./assets/image-ste.png" width="100%" alt="Image Steganography" />
   </div>
 </td>
 <td width="45%">
@@ -273,19 +273,19 @@
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="./lc.png" width="80%" alt="LeetCode" />
+  <img src="./assets/lc.png" width="80%" alt="LeetCode" />
   <br/><br/>
   <strong>LeetCode</strong><br/>
   Guardian 2100+
 </td>
 <td width="33%" align="center">
-  <img src="./cf.png" width="80%" alt="Codeforces" />
+  <img src="./assets/cf.png" width="80%" alt="Codeforces" />
   <br/><br/>
   <strong>Codeforces</strong><br/>
   Expert 1600+
 </td>
 <td width="33%" align="center">
-  <img src="./cc.png" width="80%" alt="CodeChef" />
+  <img src="./assets/cc.png" width="80%" alt="CodeChef" />
   <br/><br/>
   <strong>CodeChef</strong><br/>
   4 Star 1800+
@@ -303,7 +303,7 @@
 <table>
 <tr>
 <td width="25%" align="center">
-  <img src="./aws.png" width="90%" alt="AWS" />
+  <img src="./assets/aws.png" width="90%" alt="AWS" />
 </td>
 <td width="75%">
   <strong>AWS Cloud Practitioner Essentials</strong>
@@ -316,7 +316,7 @@
 </tr>
 <tr>
 <td width="25%" align="center">
-  <img src="./cisco.png" width="90%" alt="Cisco" />
+  <img src="./assets/cisco.png" width="90%" alt="Cisco" />
 </td>
 <td width="75%">
   <strong>Introduction to Cybersecurity</strong><br/>
@@ -330,7 +330,7 @@
 </tr>
 <tr>
 <td width="25%" align="center">
-  <img src="./google.png" width="90%" alt="Google Cloud" />
+  <img src="./assets/google.png" width="90%" alt="Google Cloud" />
 </td>
 <td width="75%">
   <strong>Google Cloud Computing Foundations</strong>
