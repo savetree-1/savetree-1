@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=savetree-1&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=savetree-1&theme=tokyo-night&hide_border=true&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%" alt="Activity Graph" />
