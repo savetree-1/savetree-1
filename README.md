@@ -1,5 +1,4 @@
-<div align="center">
-<pre>
+```text
 oooo   ooooo                         oooo                      oooo                                     
 `888'   `888'                         `888                      `888                                     
  888     888   .ooooo.  oooo    ooo    .oooo.   ooo. .oo.    888  oooo   .oooo.o    888 .oo.    .ooooo.  oooo d8b  .ooooo.  
@@ -9,7 +8,7 @@ oooo   ooooo                         oooo                      oooo
 o888o   o888o `Y8bod8P'     .8'   Y8P `Y888""8o o888o o888o o888o o888o 8""888P'   o888o o888o `Y8bod8P' d888b    `Y8bod8P' 
                         .o..P'     '                                                                                     
                         `Y8P'                                                                                            
-</pre>
+```
 </div>
 
 <div align="center">
