@@ -1,15 +1,10 @@
 ```text
-oooo   ooooo                         oooo                      oooo                                     
-`888'   `888'                         `888                      `888                                     
- 888     888   .ooooo.  oooo    ooo    .oooo.   ooo. .oo.    888  oooo   .oooo.o    888 .oo.    .ooooo.  oooo d8b  .ooooo.  
- 888ooooo888  d88' `88b  `88.  .8'    `P  )88b  `888P"Y88b   888 .8P'   d88(  "8    888P"Y88b  d88' `88b `888""8P d88' `88b 
- 888     888  888ooo888   `88..8'      .oP"888   888   888   888888.    `"Y88b.     888   888  888ooo888  888     888ooo888 
- 888     888  888    .o    `888'  .o. d8(  888   888   888   888 `88b.  o.  )88b    888   888  888    .o  888     888    .o 
-o888o   o888o `Y8bod8P'     .8'   Y8P `Y888""8o o888o o888o o888o o888o 8""888P'   o888o o888o `Y8bod8P' d888b    `Y8bod8P' 
-                        .o..P'     '                                                                                     
-                        `Y8P'                                                                                            
+    __  __                          __           __                 
+   / / / /__  __  __   ____ _____  / /_______   / /_  ___  ________ 
+  / /_/ / _ \/ / / /  / __ `/ __ \/ //_/ ___/  / __ \/ _ \/ ___/ _  / __  /  __/ /_/ /  / /_/ / / / / ,< (__  )  / / / /  __/ /  /  __/
+/_/ /_/\___/\__, /   \__,_/_/ /_/_/|_/____/  /_/ /_/\___/_/   \___/ 
+           /____/                                                   
 ```
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18&v=3" alt="Header"/>
