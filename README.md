@@ -1,12 +1,3 @@
-```text
-    __  __                          __           __                 
-   / / / /__  __  __   ____ _____  / /_______   / /_  ___  ________ 
-  / /_/ / _ \/ / / /  / __ `/ __ \/ //_/ ___/  / __ \/ _ \/ ___/ _ \
- / __  /  __/ /_/ /  / /_/ / / / / ,< (__  )  / / / /  __/ /  /  __/
-/_/ /_/\___/\__, /   \__,_/_/ /_/_/|_/____/  /_/ /_/\___/_/   \___/ 
-           /____/                                                   
-```
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankush%20Rawat&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=18&v=3" alt="Header"/>
 </div>
